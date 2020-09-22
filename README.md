@@ -1,10 +1,27 @@
 # This is my Webpack config files
 
-# Scripts
+### Installation
 
-    start - "webpack-dev-server --config ./config/webpack.config.js",
-    prod  "webpack --config ./config/webpack.config.prod.js",
-    dev - "webpack --config ./config/webpack.config.js"
+```
+npm install
+```
+
+### Start Dev Server
+
+```
+npm run dev
+```
+
+### Start Prod Server
+
+```
+npm run prod
+```
+### Build Live Version
+
+```
+npm start
+```
 
 # devDependencies
 
